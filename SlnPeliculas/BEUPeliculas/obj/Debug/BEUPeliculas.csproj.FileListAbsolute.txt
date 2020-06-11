@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\BEUPeliculas.dll.config
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\BEUPeliculas.dll
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\BEUPeliculas.pdb
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\EntityFramework.dll
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\EntityFramework.xml
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\obj\Debug\BEUPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\obj\Debug\BEUPeliculas.csproj.CopyComplete
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\obj\Debug\BEUPeliculas.dll
+C:\Users\crist\source\repos\SlnPeliculas\BEUPeliculas\obj\Debug\BEUPeliculas.pdb
